@@ -1,2 +1,2 @@
 # gurl
-curl with colorful logging built with go. Hence gurl.
+curl built with Go. Hence gurl.
